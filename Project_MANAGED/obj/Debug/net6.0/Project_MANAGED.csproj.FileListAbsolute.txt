@@ -1,0 +1,15 @@
+C:\dev\POCS\DotnetAssincrono\Project_Async\Project_MANAGED\bin\Debug\net6.0\Project_MANAGED.exe
+C:\dev\POCS\DotnetAssincrono\Project_Async\Project_MANAGED\bin\Debug\net6.0\Project_MANAGED.deps.json
+C:\dev\POCS\DotnetAssincrono\Project_Async\Project_MANAGED\bin\Debug\net6.0\Project_MANAGED.runtimeconfig.json
+C:\dev\POCS\DotnetAssincrono\Project_Async\Project_MANAGED\bin\Debug\net6.0\Project_MANAGED.dll
+C:\dev\POCS\DotnetAssincrono\Project_Async\Project_MANAGED\bin\Debug\net6.0\Project_MANAGED.pdb
+C:\dev\POCS\DotnetAssincrono\Project_Async\Project_MANAGED\obj\Debug\net6.0\Project_MANAGED.csproj.AssemblyReference.cache
+C:\dev\POCS\DotnetAssincrono\Project_Async\Project_MANAGED\obj\Debug\net6.0\Project_MANAGED.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\POCS\DotnetAssincrono\Project_Async\Project_MANAGED\obj\Debug\net6.0\Project_MANAGED.AssemblyInfoInputs.cache
+C:\dev\POCS\DotnetAssincrono\Project_Async\Project_MANAGED\obj\Debug\net6.0\Project_MANAGED.AssemblyInfo.cs
+C:\dev\POCS\DotnetAssincrono\Project_Async\Project_MANAGED\obj\Debug\net6.0\Project_MANAGED.csproj.CoreCompileInputs.cache
+C:\dev\POCS\DotnetAssincrono\Project_Async\Project_MANAGED\obj\Debug\net6.0\Project_MANAGED.dll
+C:\dev\POCS\DotnetAssincrono\Project_Async\Project_MANAGED\obj\Debug\net6.0\refint\Project_MANAGED.dll
+C:\dev\POCS\DotnetAssincrono\Project_Async\Project_MANAGED\obj\Debug\net6.0\Project_MANAGED.pdb
+C:\dev\POCS\DotnetAssincrono\Project_Async\Project_MANAGED\obj\Debug\net6.0\Project_MANAGED.genruntimeconfig.cache
+C:\dev\POCS\DotnetAssincrono\Project_Async\Project_MANAGED\obj\Debug\net6.0\ref\Project_MANAGED.dll
