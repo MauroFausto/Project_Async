@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A53VbsPf7+wzLkBO2Q1zDZtO0nZ9f8cMYW8+FsOx6X48FApvXUFYpqaM+nEFobJeohf+13yKm+y1KfFCJKFoMQ==",
+  "dgSpecHash": "4A1mcHv1ZHWfnpOxqGlg97wtGmz0McJ1ke43l5OSUty4dSh5VIMcP6ivI1EXjGaJl12fP2KNp1CGxNSV7wyK/g==",
   "success": true,
-  "projectFilePath": "C:\\dev\\POCS\\DotnetAssincrono\\Project_Async\\Project_MANAGED\\Project_MANAGED.csproj",
+  "projectFilePath": "C:\\dev\\Project_Async\\Project_MANAGED\\Project_MANAGED.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

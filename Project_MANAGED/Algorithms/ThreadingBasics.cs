@@ -18,6 +18,7 @@ namespace Project_MANAGED.Algorithms
         public void Run()
         {
             Console.WriteLine("Olá mundo assíncrono!\r\n");
+            int bgThreadCycleCounter = -1;
 
             var bgThread = new Thread(() =>
             {
@@ -26,6 +27,8 @@ namespace Project_MANAGED.Algorithms
                     bool isNetworkUp = NetworkInterface.GetIsNetworkAvailable();
                     Console.WriteLine($"A conexão de rede está online? Resposta: {isNetworkUp}");
                     Thread.Sleep( 100 );
+
+                    Console.WriteLine($"Background thread counter is: {bgThreadCycleCounter}.");
                 }
             });
 
@@ -34,7 +37,7 @@ namespace Project_MANAGED.Algorithms
 
             for (int i = 0; i < 10; i++) 
             {
-                Console.WriteLine("Thread principal trabalhando...");
+                Console.WriteLine($"Thread principal trabalhando... Thread Count is: {i}.");
                 Task.Delay(500);
             }
 

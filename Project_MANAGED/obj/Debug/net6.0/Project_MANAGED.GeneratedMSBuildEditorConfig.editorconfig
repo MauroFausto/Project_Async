@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Project_MANAGED
-build_property.ProjectDir = C:\dev\POCS\DotnetAssincrono\Project_Async\Project_MANAGED\
+build_property.ProjectDir = C:\dev\Project_Async\Project_MANAGED\
